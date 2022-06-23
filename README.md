@@ -93,11 +93,5 @@ Therefore, the categorization of the text documents into those 5 categories cond
 - May increase dropout rate in future to control overfitting.
 - Besides, may try with different Deep Learning architecture to improve the model. For example, implementing BERT model, transformer model or GPT3 model.
 
-
-
-
-
-
-
-
-
+## CREDIT
+The dataset obtain from: [bbc_text.csv](https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv)
